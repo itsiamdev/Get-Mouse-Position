@@ -9,7 +9,7 @@ A simple and elegant web application that displays your mouse coordinates in rea
 - ⚡ Lightweight and fast performance
 
 ## 🌐 Live Demo
-Check out the live version here: [https://iam269.github.io/Get-Mouse-Position/](https://iam269.github.io/Get-Mouse-Position/)
+Check out the live version here: [https://itsiamdev.github.io/Get-Mouse-Position/](https://itsiamdev.github.io/Get-Mouse-Position/)
 
 ## 🚀 How to Use
 1. Open the `index.html` file in your web browser
